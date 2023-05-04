@@ -1,4 +1,4 @@
-# Revenue-Insights-In-Hospitality-Domain-Using-PowerBI
+# Revenue Insights In Hospitality Domain Using PowerBI
 
 ### --readme under construction-- 
 
